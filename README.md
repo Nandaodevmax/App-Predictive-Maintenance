@@ -17,3 +17,4 @@ e calcule:
 - Probabilidade de Falha
 - Nível de Risco
 - Recomendação de Intervenção
+https://app-predictive-maintenance-9gcu3mnjjyhwuauhsaf9ux.streamlit.app/
